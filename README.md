@@ -73,19 +73,25 @@ cd guess-the-movie-by-emoji
 ```
 
 ### 2️⃣ run seed.js to create the database
+```bash
 cd server
 cs data
 node seed.js
+```
 
 ### 3️⃣ Set up the Backend
+```bash
 cd server
 npm install
 node server.js
+```
 
 ### 4️⃣ Set up the front end
+```bash
 cd guess-the-emoji-client
 npm install
 npm start
+```
 
 5️⃣ Play the Game 🎮
 - Open your browser at http://localhost:3000
