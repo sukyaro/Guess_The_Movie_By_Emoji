@@ -93,7 +93,7 @@ npm install
 npm start
 ```
 
-5️⃣ Play the Game 🎮
+### 5️⃣ Play the Game 🎮
 - Open your browser at http://localhost:3000
 - Sign up for a new account.
 - Guess the movie from emojis.
@@ -102,18 +102,18 @@ npm start
 
 ---
 
-💡 Possible Improvements
+## 💡 Possible Improvements
 - Add movie hints for each question 🎥
 - Implement leaderboard system 🏆
 - Allow users to upload custom emoji quizzes ✨
 
 ---
 
-🧾 License
+## 🧾 License
 This project is licensed under the MIT License — feel free to use, modify, and share it.
 
 ---
 
-🖤 Author
-sukyaro
+## 🖤 Author
+sukyaro \n
 💼 Developer of Guess The Movie By Emoji
