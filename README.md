@@ -67,8 +67,10 @@ Guess_The_Movie_By_Emoji/
 
 ### 1️⃣ Clone the Repository
 
+```bash
 git clone https://github.com/<your-username>/guess-the-movie-by-emoji.git
 cd guess-the-movie-by-emoji
+```
 
 ### 2️⃣ run seed.js to create the database
 cd server
@@ -86,18 +88,18 @@ npm install
 npm start
 
 5️⃣ Play the Game 🎮
-Open your browser at http://localhost:3000
-Sign up for a new account.
-Guess the movie from emojis.
-See your score update in real time.
-Log out and return anytime — your progress is saved.
+- Open your browser at http://localhost:3000
+- Sign up for a new account.
+- Guess the movie from emojis.
+- See your score update in real time.
+- Log out and return anytime — your progress is saved.
 
 ---
 
 💡 Possible Improvements
-Add movie hints for each question 🎥
-Implement leaderboard system 🏆
-Allow users to upload custom emoji quizzes ✨
+- Add movie hints for each question 🎥
+- Implement leaderboard system 🏆
+- Allow users to upload custom emoji quizzes ✨
 
 ---
 
