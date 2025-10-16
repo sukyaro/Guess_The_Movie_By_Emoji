@@ -68,7 +68,7 @@ Guess_The_Movie_By_Emoji/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/guess-the-movie-by-emoji.git
+git clone https://github.com/sukyaro/guess-the-movie-by-emoji.git Guess_The_Movie_Ny_Emoji
 cd guess-the-movie-by-emoji
 ```
 
