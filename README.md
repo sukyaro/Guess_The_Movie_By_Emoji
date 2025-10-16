@@ -36,6 +36,7 @@ It features user authentication, score tracking, and smooth transitions — all 
 ---
 
 ## 📂 Folder Structure
+```bash
 Guess_The_Movie_By_Emoji/
 │
 ├── server/ # Backend (Express + SQLite)
@@ -58,6 +59,7 @@ Guess_The_Movie_By_Emoji/
 │ └── package-lock.json
 │
 └── README.md
+```
 
 ---
 
