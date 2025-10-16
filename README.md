@@ -115,5 +115,4 @@ This project is licensed under the MIT License — feel free to use, modify, and
 ---
 
 ## 🖤 Author
-sukyaro \n
-💼 Developer of Guess The Movie By Emoji
+sukyaro
